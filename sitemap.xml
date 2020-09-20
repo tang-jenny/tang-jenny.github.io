@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tang-jenny.github.io/blog/</loc>
+    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/projects/</loc>
+    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tang-jenny.github.io/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
@@ -24,16 +34,6 @@
   
   <url>
     <loc>https://tang-jenny.github.io/charming-evening-field.1/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/charming-evening-field.10/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/charming-evening-field.11/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
@@ -64,16 +64,6 @@
   
   <url>
     <loc>https://tang-jenny.github.io/charming-evening-field.7/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/charming-evening-field.8/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/charming-evening-field.9/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
@@ -164,6 +154,26 @@
   
   <url>
     <loc>https://tang-jenny.github.io/tags/photos/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/charming-evening-field.10/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/charming-evening-field.11/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/charming-evening-field.8/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/charming-evening-field.9/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
