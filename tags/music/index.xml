@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Jenny</title>
+    <link>https://tang-jenny.github.io/tags/music/</link>
+    <description>Recent content in music on Jenny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2020 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://tang-jenny.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mike Mulshine - Sittin&#39; on It [Music Video]</title>
+      <link>https://tang-jenny.github.io/music-video/</link>
+      <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://tang-jenny.github.io/music-video/</guid>
+      <description>Blah blah blah</description>
+    </item>
+    
+  </channel>
+</rss>

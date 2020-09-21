@@ -6,71 +6,53 @@
     <description>Recent content in Tags on Jenny</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="https://tang-jenny.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Article</title>
-      <link>https://tang-jenny.github.io/tags/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>gamedev</title>
+      <link>https://tang-jenny.github.io/tags/gamedev/</link>
+      <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/tags/article/</guid>
+      <guid>https://tang-jenny.github.io/tags/gamedev/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fashion</title>
-      <link>https://tang-jenny.github.io/tags/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>monogame</title>
+      <link>https://tang-jenny.github.io/tags/monogame/</link>
+      <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/tags/fashion/</guid>
+      <guid>https://tang-jenny.github.io/tags/monogame/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Finance</title>
-      <link>https://tang-jenny.github.io/tags/finance/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>music</title>
+      <link>https://tang-jenny.github.io/tags/music/</link>
+      <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/tags/finance/</guid>
+      <guid>https://tang-jenny.github.io/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Food</title>
-      <link>https://tang-jenny.github.io/tags/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>video-editing</title>
+      <link>https://tang-jenny.github.io/tags/video-editing/</link>
+      <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/tags/food/</guid>
+      <guid>https://tang-jenny.github.io/tags/video-editing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nature</title>
-      <link>https://tang-jenny.github.io/tags/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>games</title>
+      <link>https://tang-jenny.github.io/tags/games/</link>
+      <pubDate>Thu, 11 Aug 2016 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/tags/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>https://tang-jenny.github.io/tags/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://tang-jenny.github.io/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://tang-jenny.github.io/tags/photos/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://tang-jenny.github.io/tags/photos/</guid>
+      <guid>https://tang-jenny.github.io/tags/games/</guid>
       <description></description>
     </item>
     
