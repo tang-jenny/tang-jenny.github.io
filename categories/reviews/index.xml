@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reviews on Jenny</title>
+    <title>reviews on Jenny Tang</title>
     <link>https://tang-jenny.github.io/categories/reviews/</link>
-    <description>Recent content in reviews on Jenny</description>
+    <description>Recent content in reviews on Jenny Tang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Aug 2016 14:46:10 +0600</lastBuildDate>
@@ -13,20 +13,20 @@
     
     <item>
       <title>Stardew Valley: A Nostalgic Treasure</title>
-      <link>https://tang-jenny.github.io/stardew-valley/</link>
+      <link>https://tang-jenny.github.io/blog/reviews/stardew-valley/</link>
       <pubDate>Thu, 11 Aug 2016 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/stardew-valley/</guid>
+      <guid>https://tang-jenny.github.io/blog/reviews/stardew-valley/</guid>
       <description>A beautiful homage to the Harvest Moon series, Stardew Valley is a modern farming simulator with a retro twist that reminds players of the charm of hard work, friendship, and lots and lots of parsnips.</description>
     </item>
     
     <item>
       <title>Yo-Kai Watch: Charming AF</title>
-      <link>https://tang-jenny.github.io/yokai-watch/</link>
+      <link>https://tang-jenny.github.io/blog/reviews/yokai-watch/</link>
       <pubDate>Thu, 11 Aug 2016 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/yokai-watch/</guid>
-      <description>A little Pokemon, a little Digimon, a little Shin Megami Tensei; despite its shortcomings, Yo-Kai Watch‘s attention to detail will transport players to a magical town filled with child-like wonder.</description>
+      <guid>https://tang-jenny.github.io/blog/reviews/yokai-watch/</guid>
+      <description>A little Pokémon, a little Digimon, a little Shin Megami Tensei; despite its shortcomings, Yo-Kai Watch‘s attention to detail will transport players to a magical town filled with child-like wonder.</description>
     </item>
     
   </channel>

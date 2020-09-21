@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gamedev on Jenny</title>
+    <title>gamedev on Jenny Tang</title>
     <link>https://tang-jenny.github.io/tags/gamedev/</link>
-    <description>Recent content in gamedev on Jenny</description>
+    <description>Recent content in gamedev on Jenny Tang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Sep 2020 14:46:10 +0600</lastBuildDate>
@@ -13,19 +13,19 @@
     
     <item>
       <title>Game Dev Blog #1: Dialogue Screen</title>
-      <link>https://tang-jenny.github.io/devblog1/</link>
+      <link>https://tang-jenny.github.io/blog/devblog/devblog1/</link>
       <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/devblog1/</guid>
+      <guid>https://tang-jenny.github.io/blog/devblog/devblog1/</guid>
       <description>Blah blah blah</description>
     </item>
     
     <item>
       <title>Untitled Game</title>
-      <link>https://tang-jenny.github.io/adventure-game/</link>
+      <link>https://tang-jenny.github.io/projects/adventure-game/</link>
       <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
-      <guid>https://tang-jenny.github.io/adventure-game/</guid>
+      <guid>https://tang-jenny.github.io/projects/adventure-game/</guid>
       <description>Blah blah blah</description>
     </item>
     
