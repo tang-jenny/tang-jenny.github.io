@@ -3,42 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tang-jenny.github.io/categories/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/categories/devblog/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/blog/devblog/devblog1/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/tags/gamedev/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/tags/monogame/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tang-jenny.github.io/tags/</loc>
+    <lastmod>2020-09-23T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tang-jenny.github.io/blog/</loc>
     <lastmod>2020-09-20T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tang-jenny.github.io/categories/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/categories/devblog/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/blog/devblog/devblog1/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/tags/gamedev/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tang-jenny.github.io/projects/music-video/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/tags/monogame/</loc>
     <lastmod>2020-09-20T14:46:10+06:00</lastmod>
   </url>
   
@@ -54,11 +59,6 @@
   
   <url>
     <loc>https://tang-jenny.github.io/projects/</loc>
-    <lastmod>2020-09-20T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tang-jenny.github.io/tags/</loc>
     <lastmod>2020-09-20T14:46:10+06:00</lastmod>
   </url>
   

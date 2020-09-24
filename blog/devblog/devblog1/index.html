@@ -95,11 +95,39 @@
     <div class="row justify-content-md-center">
       <div class="col-lg-9">
         <ul class="list-inline d-flex justify-content-end py-3">
-          <li class="list-inline-item"><i class="ti-calendar mr-2"></i>Sep 20, 2020</li>
+          <li class="list-inline-item"><i class="ti-calendar mr-2"></i>Sep 23, 2020</li>
         </ul>
         <article class="content">
-          <img src="https://tang-jenny.github.io/images/post/devblog1/temp.png" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          <p><!-- raw HTML omitted -->Blah blah blah<!-- raw HTML omitted --></p>
+          <img src="https://tang-jenny.github.io/images/post/devblog1/thumbnail.png" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          <p>Making a game as hard AF. 15 hours in, and I have managed to scrape (and I mean scrape) together a somewhat working dialogue screen with one character speaking. Maybe I am a terrible Googler or maybe I am just naive, but with the popularity of Monogame, I was hoping there would be more official documentation on default implementation for classic game features (ex. dialogue trees). Moving forward, I will definitely try searching through Github for examples.</p>
+<p><em>Assets are all from <strong>Ace Attorney</strong>, for now.</em></p>
+<p><img src="/images/post/devblog1/phoenix-demo.gif" alt="phoenix demo"></p>
+<p><strong>Features</strong>:</p>
+<ol>
+<li>Automatically reads dialogue from text file</li>
+<li>Animates speaker depending on line spoken</li>
+<li>Distinguishes between animations that loop and animations that do not</li>
+<li>Can click mouse to skip to end for longer text</li>
+</ol>
+<p><strong>Next steps</strong>:</p>
+<ol>
+<li>Better organize current code</li>
+<li>Change dialogue reader to XML file</li>
+<li>Implement dialogue screen to swap between 1 or 2 speakers</li>
+<li>Wrap dialogue text</li>
+</ol>
+<hr>
+<h3 id="implementation-details">Implementation Details</h3>
+<hr>
+<p>For the game, I&rsquo;ve decided to use Monogame, without the Monogame.Extended library, since I did not need any of the 3d or physics features (and I could not figure out where the SpriteSheetAnimationFactory class went&hellip; haha).</p>
+<p>Below is the PlantUML class diagram. Not all methods and attributes within a class have been included for brevity&rsquo;s sake.
+<img src="/images/post/devblog1/uml_cd.png" alt="UML class diagram"></p>
+<p><strong>Best resources I&rsquo;ve been using</strong>:</p>
+<ol>
+<li><a href="https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.41)">Microsoft XNA Documentation</a></li>
+<li><a href="https://gamedev.stackexchange.com/">StackExchange</a></li>
+<li><a href="https://www.leshylabs.com/apps/sstool/">Leshy&rsquo;s SpriteSheet Tool</a></li>
+</ol>
 
         </article>
       </div>

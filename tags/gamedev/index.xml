@@ -6,7 +6,7 @@
     <description>Recent content in gamedev on Jenny Tang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="https://tang-jenny.github.io/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Game Dev Blog #1: Dialogue Screen</title>
       <link>https://tang-jenny.github.io/blog/devblog/devblog1/</link>
-      <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
+      <pubDate>Wed, 23 Sep 2020 14:46:10 +0600</pubDate>
       
       <guid>https://tang-jenny.github.io/blog/devblog/devblog1/</guid>
-      <description>Blah blah blah</description>
+      <description>Making a game as hard AF. 15 hours in, and I have managed to scrape (and I mean scrape) together a somewhat working dialogue screen with one character speaking.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 20 Sep 2020 14:46:10 +0600</pubDate>
       
       <guid>https://tang-jenny.github.io/projects/adventure-game/</guid>
-      <description>Blah blah blah</description>
+      <description>Follow along Y, an investigative journalist, on her new move to X and uncover the truth behind the princess&amp;rsquo; mysterious death.</description>
     </item>
     
   </channel>
