@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Game Dev Blog #2: Dialogue Struggle Bus</title>
+      <link>https://tang-jenny.github.io/blog/devblog/devblog2/</link>
+      <pubDate>Sat, 07 Nov 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://tang-jenny.github.io/blog/devblog/devblog2/</guid>
+      <description>After spending approximately 4 hours failing to deserialize my XML dialogue, I decided I hated the lack of Monogame resources and attempted a brief flirtation with Unity, believing it would be more streamlined.</description>
+    </item>
+    
+    <item>
       <title>Game Dev Blog #1: Dialogue Screen</title>
       <link>https://tang-jenny.github.io/blog/devblog/devblog1/</link>
       <pubDate>Wed, 23 Sep 2020 14:46:10 +0600</pubDate>

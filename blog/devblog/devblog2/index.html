@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Using Hugo parsa theme layout 2.">
+  <meta name="description" content="Game Dev Blog #2: Dialogue Struggle Bus">
   <meta name="author" content="Jenny">
   <meta name="generator" content="Hugo 0.69.0" />
 
@@ -82,7 +82,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h4>devblog</h4>
+        <h4 style="text-align:center">Game Dev Blog #2: Dialogue Struggle Bus</h4>
       </div>
     </div>
   </div>
@@ -92,76 +92,93 @@
 
 <section>
   <div class="container">
-    <div class="row">
-      <div class="col-lg-12 mt-5">
-        
-        
+    <div class="row justify-content-md-center">
+      <div class="col-lg-9">
+        <ul class="list-inline d-flex justify-content-end py-3">
+          <li class="list-inline-item"><i class="ti-calendar mr-2"></i>Nov 07, 2020</li>
+        </ul>
+        <article class="content">
+          <img src="https://tang-jenny.github.io/images/post/devblog2/thumbnail.png" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          <p>After spending approximately 4 hours failing to deserialize my XML dialogue, I decided I hated the lack of Monogame resources and attempted a brief flirtation with Unity, believing it would be more streamlined. It was not. I spent over 5 hours trying to figure out how to work the camera (yes, I very stupid), and since our current game plans do not even include a camera, I did not think the bells and whistles of Unity was worth it.</p>
+<p>Back in Monogame, I completely gave up on XML, and I moved forward with JSON.</p>
+<p><em>Assets are all from <strong>Ace Attorney</strong>, for now.</em></p>
+<p><img src="/images/post/devblog2/phoenix-demo.gif" alt="phoenix demo"></p>
+<p><strong>Features</strong>:</p>
+<ol>
+<li>JSON file reader for dialogue events</li>
+<li>Events connected to main character&rsquo;s stats, relationships, and previously seen events</li>
+<li>Events support 0 - 2 character animations on screen</li>
+<li>Events support audio (sound effects &amp; background music)</li>
+</ol>
+<p><strong>Next steps</strong>:</p>
+<ol>
+<li>Add support for choices and outcomes during events</li>
+<li>Wrap dialogue text</li>
+<li>Start work on menu/stat-raising game mechanics</li>
+</ol>
+<hr>
+<h3 id="implementation-details">Implementation Details</h3>
+<hr>
+<p>The JSON file maps to an AllEventDialogue object will, in theory, house all of the event dialogue in the game. Each EventDialogue object has a list of relationships, stats, and flags which determine when the event will be played. The event text follows a basic script which determines the event&rsquo;s background images, animations, dialogue, and main character status changes.</p>
+<p>Currently, I plan on using a GameplayManager object to control when events play (vs when other gamplay is occurring). TBD as to whether or not that will work.</p>
+<p><strong>Updated and Condensed UML Diagram</strong></p>
+<p><img src="/images/post/devblog2/uml_cd.png" alt="UML class diagram"></p>
+<p><strong>Example JSON Text</strong></p>
+<pre><code>*witnessempty\n
+%ost/gumshoe\n
+It seems like Phoenix is sick.\n
+Oh here he comes!\n
+@redgeworth\n
+Acchoo! @lphoenix #sneezing\n
+</code></pre><p><strong>Best new resources I&rsquo;ve been using</strong>:</p>
+<ol>
+<li><a href="https://jsonformatter.org/json-editor">JSON Formatter</a></li>
+<li><a href="https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx">Remove/Replace Line Breaks</a></li>
+</ol>
+<p><strong>Resources from prior developments</strong>:</p>
+<ol>
+<li><a href="https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.41)">Microsoft XNA Documentation</a></li>
+<li><a href="https://gamedev.stackexchange.com/">StackExchange</a></li>
+<li><a href="https://www.leshylabs.com/apps/sstool/">Leshy&rsquo;s SpriteSheet Tool</a></li>
+</ol>
 
-        <div class="row">
-          
-          <div class="col-12 mb-100">
-            <article data-file="https://tang-jenny.github.io/blog/devblog/devblog2/" data-target="article"
-              class="article-full-width ">
-              <div class="post-image">
-                <img class="img-fluid" src="https://tang-jenny.github.io/images/post/devblog2/thumbnail.png" alt="post-thumb">
-              </div>
-              <div class="post-content">
-                <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">
-                  <li class="list-inline-item"><i class="ti-calendar mr-2"></i>Nov 07, 2020
-                  </li>
-                  <li class="list-inline-item"><i class="ti-alarm-clock mr-2"></i><span class="eta"></span> read</li>
-                </ul>
-                <h4 class="mb-4"><a href="https://tang-jenny.github.io/blog/devblog/devblog2/" class="text-dark">Game Dev Blog #2: Dialogue Struggle Bus</a></h4>
-                <p class="mb-0 post-summary">After spending approximately 4 hours failing to deserialize my XML dialogue, I decided I hated the lack of Monogame resources and attempted a brief flirtation with Unity, believing it would be more streamlined.</p>
-                <a class="btn btn-transparent mb-4" href="https://tang-jenny.github.io/blog/devblog/devblog2/">Continue...</a>
-              </div>
-            </article>
-          </div>
-          
-          <div class="col-12 mb-100">
-            <article data-file="https://tang-jenny.github.io/blog/devblog/devblog1/" data-target="article"
-              class="article-full-width  article-right ">
-              <div class="post-image">
-                <img class="img-fluid" src="https://tang-jenny.github.io/images/post/devblog1/thumbnail.png" alt="post-thumb">
-              </div>
-              <div class="post-content">
-                <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">
-                  <li class="list-inline-item"><i class="ti-calendar mr-2"></i>Sep 23, 2020
-                  </li>
-                  <li class="list-inline-item"><i class="ti-alarm-clock mr-2"></i><span class="eta"></span> read</li>
-                </ul>
-                <h4 class="mb-4"><a href="https://tang-jenny.github.io/blog/devblog/devblog1/" class="text-dark">Game Dev Blog #1: Dialogue Screen</a></h4>
-                <p class="mb-0 post-summary">Making a game as hard AF. 15 hours in, and I have managed to scrape (and I mean scrape) together a somewhat working dialogue screen with one character speaking.</p>
-                <a class="btn btn-transparent mb-4" href="https://tang-jenny.github.io/blog/devblog/devblog1/">Continue...</a>
-              </div>
-            </article>
-          </div>
-          
-        </div>
-        
-        
-        <div class="row">
-          <div class="col-12">
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-          </div>
-        </div>
-        
+        </article>
       </div>
-      
     </div>
   </div>
 </section>
 
+
+
+<section>
+  <div class="container">
+    <div class="row justify-content-md-center py-3">
+      <div class="col-lg-9">
+        <div class="widget">
+          <h6 class="mb-4">TAGS</h6>
+          <ul class="list-inline tag-list">
+            
+            <li class="list-inline-item m-1"><a href="https://tang-jenny.github.io/tags/gamedev/">gamedev</a></li>
+            
+            <li class="list-inline-item m-1"><a href="https://tang-jenny.github.io/tags/monogame/">monogame</a></li>
+            
+            <li class="list-inline-item m-1"><a href="https://tang-jenny.github.io/tags/unity/">unity</a></li>
+            
+          </ul>
+        </div>
+        <div class="widget">
+          <h6 class="mb-4">CATEGORIES</h6>
+          <ul class="list-inline tag-list">
+            
+            <li class="list-inline-item m-1"><a href="https://tang-jenny.github.io/categories/devblog/">devblog</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  
 
 <footer class="bg-secondary">
   <div class="section">
